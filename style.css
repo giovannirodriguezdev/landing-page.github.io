@@ -1,0 +1,158 @@
+/* Navbar  */
+
+.nav-font {
+    color: whitesmoke;
+    text-transform: uppercase;
+    font-family: 'Vina Sans', cursive;
+    font-size: 30px;
+}
+
+.nav-font:hover {
+    color: orange;
+}
+
+.navbar-toggler {
+    color: whitesmoke;
+    border-color: whitesmoke;
+    border-width: 3px;
+}
+
+.navbar-toggler-icon {
+    color: whitesmoke !important;
+}
+
+.navbar-toggler-collapsed {
+    color: whitesmoke;
+}
+
+.collapse {
+    color: whitesmoke;
+}
+
+/* Section Break  */
+
+.break {
+    height: 180px;
+}
+
+.break-text {
+    color: whitesmoke;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Vina Sans', cursive;
+    font-size: 66px;
+}
+
+/* Home Blog */
+
+/* .blog-padding {
+    padding-left: 2rem;
+}
+
+.blog-padding-right {
+    padding-right: 2rem;
+} */
+
+/* .blog-img {
+    height: 521px;
+} */
+
+.card-title {
+    font-family: 'Vina Sans', cursive;
+    font-size: 60px;
+    text-transform: uppercase;
+}
+
+.card-text {
+    font-family: 'Courier New', cursive;
+}
+
+.blog-btn {
+    background-color: black;
+    color: whitesmoke;
+    border-radius: 0;
+    padding: 7px 20px;
+    font-size: 28px;
+    color: orange;
+    font-family: 'Vina Sans', cursive;
+    text-transform: uppercase;
+}
+
+.blog-btn:hover {
+    background-color: black;
+    color: whitesmoke;
+    border-radius: 0;
+    padding: 7px 20px;
+    font-size: 28px;
+    color: green;
+    font-family: 'Vina Sans', cursive;
+}
+
+.blog-more {
+    background-color: black;
+    color: whitesmoke;
+    border-radius: 5px;
+    padding: 7px 20px;
+    font-size: 28px;
+    color: orange;
+    font-family: 'Vina Sans', cursive;
+}
+
+.blog-more:hover {
+    background-color: orange;
+    color: black;
+    border-radius: 5px;
+    padding: 7px 20px;
+    font-size: 28px;
+    font-family: 'Vina Sans', cursive;
+}
+
+/* Bottom Break */
+
+.break-text-bottom {
+    font-size: 50px;
+    color: whitesmoke;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Vina Sans', cursive;
+}
+
+.bi {
+    color: orange;
+    font-size: 40px;
+}
+
+hr {
+    color: orange;
+    margin: 0;
+}
+
+/* Footer */
+
+.footer {
+    height: 35px;
+    background-color: orange;
+}
+
+.footer-text {
+    font-size: 1rem;
+    text-align: center;
+    font-family: 'Courier New', cursive;
+    color: whitesmoke;
+}
+
+/* Newsletter */
+
+.sub-btn {
+    background-color: black;
+    border: none;
+    border-radius: 0;
+    color: whitesmoke;
+}
+
+.sub-btn:hover {
+    background-color: orange;
+    border: none;
+    border-radius: 0;
+    color: whitesmoke;
+}
